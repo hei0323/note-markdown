@@ -6,7 +6,7 @@
   * [支持MarkDown语法的编辑器](zhi-chi-markdown-yu-fa-de-bian-ji-qi.md)
 * [MarkDown的语法](da-duan-dian.md)
   * [标题语法](da-duan-dian/biao-ti-yu-fa.md)
-  * 列表语法
+  * [列表语法](da-duan-dian/lie-biao-yu-fa.md)
   * 文本格式语法
   * 段落格式语法
   * 区块格式语法
