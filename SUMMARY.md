@@ -19,5 +19,5 @@
   * [数学公式的表示](biao-ti-yu-fa/shu-xue-gong-shi-de-biao-shi.md)
 * [github独有的特性](githubdu-you-de-te-xing.md)
   * [复选框列表](githubdu-you-de-te-xing/fu-xuan-kuang-lie-biao.md)
-  * emoji表情
+  * [emoji表情](githubdu-you-de-te-xing/emojibiao-qing.md)
 
