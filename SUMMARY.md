@@ -1,4 +1,4 @@
-# Summary
+# 目录
 
 * [MarkDown语法简述](README.md)
   * [什么是MarkDown?](shi-yao-shi-markdown.md)
@@ -7,7 +7,7 @@
 * [MarkDown的语法](da-duan-dian.md)
   * [标题语法](da-duan-dian/biao-ti-yu-fa.md)
   * [列表语法](da-duan-dian/lie-biao-yu-fa.md)
-  * 文本格式语法
+  * [文本格式语法](da-duan-dian/wen-ben-ge-shi-yu-fa.md)
   * 段落格式语法
   * 区块格式语法
   * 代码块格式语法
