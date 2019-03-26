@@ -10,7 +10,7 @@
 
 * ##### 预览效果如下：
 
-  &lt;?php   
+  &lt;?php  
    echo 'hello wold!';  
   ?&gt;
 
@@ -30,15 +30,16 @@
 * ##### 书写格式如下：
 
   ```php
-      ```php
+  ```php
       <?php
       echo phpinfo();
       ?>
-      ```
   ```
-* ##### 预览效果如下：
+  ```
 
-  ```
+  预览效果如下：
+
+* ```
   <?php
   echo phpinfo();
   ?>
