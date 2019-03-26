@@ -11,7 +11,7 @@
   * [段落格式语法](da-duan-dian/duan-luo-ge-shi-yu-fa.md)
   * [区块格式语法](da-duan-dian/qu-kuai-ge-shi-yu-fa.md)
   * [代码块格式语法](da-duan-dian/dai-ma-kuai-ge-shi-yu-fa.md)
-  * 链接语法
+  * [链接语法](da-duan-dian/lian-jie-yu-fa.md)
   * 图片语法
   * [表格语法](da-duan-dian/biao-ge-yu-fa.md)
 * [其他补充](biao-ti-yu-fa.md)
