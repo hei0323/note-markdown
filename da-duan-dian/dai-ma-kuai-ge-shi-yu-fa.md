@@ -6,11 +6,9 @@
    echo 'hellow wald!';
    ?>
 - ##### 预览效果如下：
-```php
-<?php 
+   <?php 
    echo 'hello wald!';
 ?>
-```
 
 
 ####2.使用 `` 号表示
